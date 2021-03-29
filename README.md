@@ -4,9 +4,9 @@ The Vietnamese corpus is a collection of documents that record the review of car
 
 The corpus is created from the KPRO method with five components:
 
-−	Opinion dataset collected from forums or social networks (Opinion Data - OD): 2994 sentences.
+−	Opinion dataset collected from forums or social networks (Opinion Data - OD): 2994 opinions.
 
-−	The aspect standardized opinion dataset from OD is ASD (Aspect Standardized Data): 2994 sentences.
+−	The aspect standardized opinion dataset from OD is ASD (Aspect Standardized Data): 2994 opinions.
 
 −	The dataset of aspect separated sentences from OD's sentences are called AS (Aspect Sentences): 9059 sentences.
 
